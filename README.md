@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 </a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=changeworld&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=changeworld&theme=vue&exclude=HCL)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=changeworld&theme=vue&exclude=Markdown)
